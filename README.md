@@ -1,12 +1,12 @@
-### Hi there 👋
-#I'm Alessandro Cancelliere
-###I'm a courious person that wants to improve new skills throught new challenges!
-###Bachelor Degree in Computer Science at Unimol, Italy
+# Hi there 👋
+##I'm Alessandro Cancelliere
+###I'm a courious person that wants to improve new skills throught **new challenges!**
+####Bachelor Degree in Computer Science at **Unimol**, Italy
 
 - 🔭 I’m currently working on:
-  Android Native Development (Kotlin)
-  Web Development (Html, css, js, bootstrap)
-  Machine Learning
+*  Android Native Development (Kotlin)
+*  Web Development (Html, css, js, bootstrap)
+*  Machine Learning
   
 
   
