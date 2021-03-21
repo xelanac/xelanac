@@ -1,5 +1,15 @@
 ### Hi there 👋
+#I'm Alessandro Cancelliere
+###I'm a courious person that wants to improve new skills throught new challenges!
+###Bachelor Degree in Computer Science at Unimol, Italy
 
+- 🔭 I’m currently working on:
+  Android Native Development (Kotlin)
+  Web Development (Html, css, js, bootstrap)
+  Machine Learning
+  
+
+  
 <!--
 **xelanac/xelanac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
