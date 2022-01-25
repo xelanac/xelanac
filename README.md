@@ -9,8 +9,10 @@ Check out my repositories to see my previous work! 👀
 ### 🔭 I’m currently working on:
 *  Android Native Development
 
+<!--
 ### Version Control
 <a href="https://gitlab.com/xelanac"><img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/> </a> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+-->
 
 ### Keep in touch on
 <a href="https://www.linkedin.com/in/alessandro-cancelliere-b1268218a/">
