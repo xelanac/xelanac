@@ -2,7 +2,7 @@
 I'm a curious person that wants to improve new skills throught **new challenges!**
 
 - 🎓 I've got a Bachelor's Degree in Computer Science at <a href="https://www2.unimol.it/">**University of Molise**</a>
-- 📚 Current Master's Degree student in Software System Security at <a href="https://www2.unimol.it/">**University of Molise**</a>
+- 📚 Current Master's Degree student in Software Systems Security at <a href="https://www2.unimol.it/">**University of Molise**</a>
 
 Check out my repositories to see my previous work! 👀
 
