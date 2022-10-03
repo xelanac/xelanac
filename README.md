@@ -9,6 +9,14 @@ Check out my repositories to see my previous work! 👀
 ### 🔭 I’m currently working on:
 *  Android Native Development
 *  Backend Development (NodeJs)
+
+### ⚙️ &nbsp;GitHub Analytics
+
+
+<a href="https://github.com/xelanac">
+  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=xelanac&show_icons=true&theme=tokyonight&count_private=true"/>
+</a>
+
 <!--
 ### Version Control
 <a href="https://gitlab.com/xelanac"><img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/> </a> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
