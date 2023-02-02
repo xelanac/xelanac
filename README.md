@@ -25,6 +25,8 @@ Check out my repositories to see my previous work! 👀
 ### Keep in touch on
 <a href="https://www.linkedin.com/in/alessandro-cancelliere-b1268218a/">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a  href="https://telegram.me/xelanac"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/> </a>
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=xelanac.visitor-badge)
 <!--
 **xelanac/xelanac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
