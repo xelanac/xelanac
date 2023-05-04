@@ -8,6 +8,7 @@ Check out my repositories to see my previous work! 👀
 
 ### 🔭 I’m currently working on:
 *  Android Native Development
+*  Flutter Development
 *  Backend Development (NodeJs)
 
 ### ⚙️ &nbsp;GitHub Analytics
