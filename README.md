@@ -11,8 +11,9 @@ Check out my repositories to see my previous work! 👀
 *  Flutter Development
 *  Backend Development (NodeJs)
 
-### ⚙️ &nbsp;GitHub Analytics
 <!--
+### ⚙️ &nbsp;GitHub Analytics
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xelanac)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/xelanac">
